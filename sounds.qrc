@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>bk.mp3</file>
+        <file>Sounds/bk3.ncm</file>
+        <file>bk4.mp3</file>
+        <file>sound.wav</file>
+        <file>meet.wav</file>
+        <file>meet1.wav</file>
+        <file>meet2.wav</file>
+    </qresource>
+</RCC>
